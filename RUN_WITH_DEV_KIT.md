@@ -1,4 +1,4 @@
-# Run the add-in with Office Add-in Development Kit
+# Run the add-in with Office Add-in Development Kit extension
 The simpliest way to run this add-in project is using Office Add-in Development Kit. Here are steps to follow:
 
 
